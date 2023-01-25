@@ -13,7 +13,7 @@ A timed quiz built on Java
 
 ### Links
 
-[Link to the deployed website](https://github.com/aramedis/timed-quiz/)
+[Link to the deployed website](https://aramedis.github.io/timed-quiz/)
 
 [Link to the code repository](https://github.com/aramedis/timed-quiz/)
 
